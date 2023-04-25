@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/sqlmate",
+  base: "/aaryaman11/sqlmate",
   plugins: [react()],
 })
