@@ -10,7 +10,10 @@ Once you have entered your text, the app will generate SQL code that matches you
 
 Here are some examples of the types of plain text input that the app can convert into SQL:
 
-..* "Show me all customers who have made a purchase in the last 30 days"
-**"Find all orders that contain at least 5 items"
-**"Delete all products that are out of stock"
+* "Show me all customers who have made a purchase in the last 30 days"
+
+* "Find all orders that contain at least 5 items"
+
+* "Delete all products that are out of stock"
+
 The app will generate SQL code that performs the appropriate queries based on your input.
