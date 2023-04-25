@@ -12,7 +12,7 @@ function App() {
     e.preventDefault();
     const generatedQuerry =  await generateQuery()
     setSqlQuerry(generatedQuerry)
-    console.log("returned from server: ", generatedQuerry);
+  
   };
 
   const generateQuery = async () => {
