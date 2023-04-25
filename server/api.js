@@ -10,7 +10,7 @@ if (!openaiApiKey) {
 }
 
 const configuration = new Configuration({
-    apikey: openaiApiKey,
+    apiKey: openaiApiKey,
 })
 const openai = new OpenAIApi(configuration)
 
