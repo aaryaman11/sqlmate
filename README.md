@@ -1,4 +1,4 @@
-##Plain Text to SQL Converter
+#Plain Text to SQL Converter#
 
 This app is designed to help you convert plain text into SQL code using the power of natural language processing and machine learning. With the help of the ChatGPT language model, the app can understand and interpret your text input to generate SQL code that matches your intent.
 
