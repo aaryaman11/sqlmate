@@ -1,7 +1,7 @@
 {
   "name": "client",
   "private": false,
-  "homepage": "https://aaryaman11.github.io/sqlmate/",
+  "homepage": "/sqlmate",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
